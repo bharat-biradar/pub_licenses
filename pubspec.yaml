@@ -1,0 +1,12 @@
+name: pana
+description: Evaluate the health and quality of a Dart package
+version: 0.19.0-dev
+homepage: https://github.com/
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  http: ^0.13.3
+  tar: ^0.4.0
+
