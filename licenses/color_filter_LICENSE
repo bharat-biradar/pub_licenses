@@ -1,0 +1,16 @@
+Option to rotate, flash, mode, filters, timer, exposure, effects, music, gallery for image clicked in story.
+
+Option to apply a filter on the image clicked directly in the story.
+Filters will not apply to images uploaded from mobile.
+A Realtime filter applies while capturing an image in-camera from the story.
+Filters effects similar to- 
+Snapchat, 
+Instagram, and
+Tik Tok
+
+Modules:
+- Camera permission management
+- Filter effect rendering
+- Video recording
+- High resolution photo taking
+- Preparing of effects & resources with application launch

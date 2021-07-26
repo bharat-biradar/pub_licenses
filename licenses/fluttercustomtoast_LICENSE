@@ -1,0 +1,12 @@
+1. Add library to your pubspec.yaml #
+latest version: pub package
+
+dependencies:
+  fluttercustomtoast: ^0.0.2 # such as version, you need use the latest version of pub.
+
+2. Import library in dart file
+import 'package:fluttercustomtoast/fluttercustomtoast.dart';
+
+3. Call method showToast
+CustomToast.showToast(context: context,
+                      msg: '');

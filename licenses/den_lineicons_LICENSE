@@ -1,0 +1,8 @@
+DenLineIcons
+V1.0.0
+This plugin is based on Line Awesome Icons pack, which you can use it as an IconData in Flutter project https://icons8.com/line-awesome/
+Included: la-branchs, la-regular, la-solid
+
+Icon(DenLineIcons.home)
+
+
